@@ -1,0 +1,11 @@
+.nav-link{
+    background-color: aqua;
+}
+.navbar-brand{
+    background-color: aqua;
+    width: 80px;
+    text-align: center;
+}
+.bg-light{
+    background-color: black !important;
+}
